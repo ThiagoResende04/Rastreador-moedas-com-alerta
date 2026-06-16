@@ -1,0 +1,77 @@
+2026-06-16 16:29:55,868 [INFO] --- [DIAGNÓSTICO DE LEITURA DO .ENV] ---
+2026-06-16 16:29:55,870 [INFO] -> EMAIL_REMETENTE lido: 'thiago.python04@gmail.com'
+2026-06-16 16:29:55,887 [INFO] -> EMAIL_DESTINATARIO lido: 'trcoutinho0404@gmail.com'
+2026-06-16 16:29:55,887 [INFO] -> EMAIL_SENHA lido (Tamanho): 16
+2026-06-16 16:29:55,888 [INFO] ----------------------------------------
+2026-06-16 16:29:55,888 [INFO] Iniciando execução do pipeline de dados cambiais...
+2026-06-16 16:29:55,919 [INFO] Estrutura do banco de dados validada.
+2026-06-16 16:29:58,169 [INFO] Disparando e-mail de alerta cambial para USD...
+2026-06-16 16:30:05,133 [INFO] ✅ Notificação por e-mail enviada com sucesso para USD!
+2026-06-16 16:30:05,166 [INFO] Registro persistido com sucesso: USD -> R$ 5.1026
+2026-06-16 16:30:05,169 [INFO] Registro persistido com sucesso: EUR -> R$ 5.9207
+2026-06-16 16:30:05,171 [INFO] Disparando e-mail de alerta cambial para GBP...
+2026-06-16 16:30:14,729 [INFO] ✅ Notificação por e-mail enviada com sucesso para GBP!
+2026-06-16 16:30:14,730 [INFO] Registro persistido com sucesso: GBP -> R$ 6.8527
+2026-06-16 16:30:15,284 [INFO] 🏁 Pipeline finalizado com sucesso.
+2026-06-16 16:35:25,845 [INFO] --- [DIAGNÓSTICO DE LEITURA DO .ENV] ---
+2026-06-16 16:35:25,846 [INFO] -> EMAIL_REMETENTE lido: 'thiago.python04@gmail.com'
+2026-06-16 16:35:25,846 [INFO] -> EMAIL_DESTINATARIO lido: 'trcoutinho0404@gmail.com,marisaalves4@gmail.com'
+2026-06-16 16:35:25,846 [INFO] -> EMAIL_SENHA lido (Tamanho): 16
+2026-06-16 16:35:25,847 [INFO] ----------------------------------------
+2026-06-16 16:35:25,847 [INFO] Iniciando execução do pipeline de dados cambiais...
+2026-06-16 16:35:25,866 [INFO] Estrutura do banco de dados validada.
+2026-06-16 16:35:26,992 [INFO] Disparando e-mail de alerta cambial para USD...
+2026-06-16 16:35:32,287 [INFO] ✅ Notificação por e-mail enviada com sucesso para 2 destinatários!
+2026-06-16 16:35:32,291 [INFO] Registro persistido com sucesso: USD -> R$ 5.1026
+2026-06-16 16:35:32,294 [INFO] Registro persistido com sucesso: EUR -> R$ 5.9207
+2026-06-16 16:35:32,295 [INFO] Registro persistido com sucesso: GBP -> R$ 6.8527
+2026-06-16 16:35:32,300 [INFO] 🏁 Pipeline finalizado com sucesso.
+2026-06-16 16:42:33,736 [INFO] --- [DIAGNÓSTICO DE LEITURA DO .ENV] ---
+2026-06-16 16:42:33,738 [INFO] -> EMAIL_REMETENTE lido: 'thiago.python04@gmail.com'
+2026-06-16 16:42:33,738 [INFO] -> EMAIL_DESTINATARIO lido: 'trcoutinho0404@gmail.com,marisaalves4@gmail.com,billyhill_hillrock@hotmail.com'
+2026-06-16 16:42:33,738 [INFO] -> EMAIL_SENHA lido (Tamanho): 16
+2026-06-16 16:42:33,738 [INFO] ----------------------------------------
+2026-06-16 16:42:33,738 [INFO] Iniciando execução do pipeline de dados cambiais...
+2026-06-16 16:42:33,761 [INFO] Estrutura do banco de dados validada.
+2026-06-16 16:42:35,573 [INFO] Disparando e-mail de alerta cambial para USD...
+2026-06-16 16:42:40,618 [INFO] ✅ Notificação por e-mail enviada com sucesso para 3 destinatários!
+2026-06-16 16:42:40,624 [INFO] Registro persistido com sucesso: USD -> R$ 5.1022
+2026-06-16 16:42:40,625 [INFO] Registro persistido com sucesso: EUR -> R$ 5.9207
+2026-06-16 16:42:40,627 [INFO] Registro persistido com sucesso: GBP -> R$ 6.8523
+2026-06-16 16:42:40,634 [INFO] 🏁 Pipeline finalizado com sucesso.
+2026-06-16 16:45:15,740 [INFO] Iniciando execução do pipeline de dados cambiais...
+2026-06-16 16:45:21,864 [INFO] ✅ Alerta enviado com sucesso para 3 destinatários.
+2026-06-16 16:45:21,872 [INFO] Registro persistido: USD -> R$ 5.1012
+2026-06-16 16:45:21,875 [INFO] Registro persistido: EUR -> R$ 5.9172
+2026-06-16 16:45:21,877 [INFO] Registro persistido: GBP -> R$ 6.8502
+2026-06-16 16:45:21,885 [INFO] 🏁 Pipeline finalizado com sucesso.
+2026-06-16 16:46:28,803 [INFO] Iniciando execução do pipeline de dados cambiais...
+2026-06-16 16:46:34,592 [INFO] ✅ Alerta enviado com sucesso para 3 destinatários.
+2026-06-16 16:46:34,600 [INFO] Registro persistido: USD -> R$ 5.1012
+2026-06-16 16:46:34,612 [INFO] Registro persistido: EUR -> R$ 5.9172
+2026-06-16 16:46:34,614 [INFO] Registro persistido: GBP -> R$ 6.8502
+2026-06-16 16:46:34,620 [INFO] 🏁 Pipeline finalizado com sucesso.
+2026-06-16 16:59:41,141 [INFO] Iniciando execução do pipeline de dados cambiais...
+2026-06-16 16:59:46,948 [INFO] ✅ Alerta enviado com sucesso para 1 destinatários.
+2026-06-16 16:59:46,952 [INFO] Registro persistido: USD -> R$ 5.1012
+2026-06-16 16:59:46,954 [INFO] Registro persistido: EUR -> R$ 5.9172
+2026-06-16 16:59:46,957 [INFO] Registro persistido: GBP -> R$ 6.8502
+2026-06-16 16:59:46,965 [INFO] 🏁 Pipeline finalizado com sucesso.
+2026-06-16 17:01:35,329 [INFO] Iniciando execução do pipeline de dados cambiais...
+2026-06-16 17:01:43,244 [INFO] ✅ Alerta enviado com sucesso para 2 destinatários.
+2026-06-16 17:01:43,252 [INFO] Registro persistido: USD -> R$ 5.1016
+2026-06-16 17:01:43,255 [INFO] Registro persistido: EUR -> R$ 5.9172
+2026-06-16 17:01:43,257 [INFO] Registro persistido: GBP -> R$ 6.8487
+2026-06-16 17:01:43,266 [INFO] 🏁 Pipeline finalizado com sucesso.
+2026-06-16 18:00:02,499 [INFO] Iniciando execução do pipeline de dados cambiais...
+2026-06-16 18:00:08,889 [INFO] ✅ Alerta enviado com sucesso para 2 destinatários.
+2026-06-16 18:00:08,908 [INFO] Registro persistido: USD -> R$ 5.1016
+2026-06-16 18:00:08,911 [INFO] Registro persistido: EUR -> R$ 5.9172
+2026-06-16 18:00:08,912 [INFO] Registro persistido: GBP -> R$ 6.8487
+2026-06-16 18:00:08,924 [INFO] 🏁 Pipeline finalizado com sucesso.
+2026-06-16 18:34:58,526 [INFO] Iniciando execução do pipeline de dados cambiais...
+2026-06-16 18:35:04,885 [INFO] ✅ Alerta enviado com sucesso para 1 destinatários.
+2026-06-16 18:35:04,891 [INFO] Registro persistido: USD -> R$ 5.1023
+2026-06-16 18:35:04,893 [INFO] Registro persistido: EUR -> R$ 5.9207
+2026-06-16 18:35:04,894 [INFO] Registro persistido: GBP -> R$ 6.8509
+2026-06-16 18:35:04,902 [INFO] 🏁 Pipeline finalizado com sucesso.
