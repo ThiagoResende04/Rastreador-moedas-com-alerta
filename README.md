@@ -26,6 +26,8 @@ Este é um projeto focado em resolver um problema crítico de **Supply Chain, Im
 
 ![Terminal.png](Terminal.png)
 ![Email de alerta .png](Email%20de%20alerta%20.png)
+<img width="1366" height="656" alt="image" src="https://github.com/user-attachments/assets/e4361b28-c0ab-49f8-8af9-148c4ee31b94" />
+
 
 
 ## 📁 Estrutura do Projeto
